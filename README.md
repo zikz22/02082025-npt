@@ -243,7 +243,7 @@ chmod 600 clean_root_key
 ✅ Now the key is saved properly with correct permissions.
 
 ```bash
-ssh -i root_key [root@192.168.222.134](mailto:root@192.168.222.134)
+ssh -i clean_root_key root@192.168.222.134
 ```
 
 ![image.png](0cd25fae-ef7e-4c69-a0a0-acdc86b97bc0.png)
