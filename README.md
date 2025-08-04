@@ -1,7 +1,3 @@
-# 0DAY-NPT by zikz
-
-This is a team-based Capture The Flag event designed to assess your practical penetration testing skills through real-world simulation. Each challenge involves compromising a full machine, following a boot2root format.
-
 # Machine 3 - Boot2Root Writeup
 
 > Machine 3 of 5
@@ -22,7 +18,7 @@ This is part of a 5-machine boot2root series designed to simulate real-world pen
 ## 🔍 Target Details
 
 - Machine Name: `0day#3`
-- VM Platform: VMware
+- Operating System: Linux 0day3 5.10.0-23-amd64 #1 SMP Debian 5.10.179-2 (2023-07-14) x86_64 GNU/Linux
 - IP Address: `192.168.222.134` (my local area network environment)
 
 ---
