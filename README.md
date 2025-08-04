@@ -263,7 +263,7 @@ I noticed a file named `r000000t.txt`, which looked like a flag file.
 To view the content, I used:
 
 ```bash
-cat /root/r000000t.txt
+cat r000000t.txt
 NPT{root_flag_here}
 ```
 
