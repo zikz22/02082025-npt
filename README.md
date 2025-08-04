@@ -18,7 +18,7 @@ This is part of a 5-machine boot2root series designed to simulate real-world pen
 ## 🔍 Target Details
 
 - Machine Name: `0day#3`
-- Operating System: Linux 0day3 5.10.0-23-amd64 #1 SMP Debian 5.10.179-2 (2023-07-14) x86_64 GNU/Linux
+- Operating System: Debian GNU/Linux 5.10.0-23-amd64 (x86_64, kernel dated 2023-07-14)
 - IP Address: `192.168.222.134` (my local area network environment)
 
 ---
